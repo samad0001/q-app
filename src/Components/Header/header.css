@@ -1,0 +1,14 @@
+.Child{
+     /* position: absolute; */
+    margin: 0 auto;
+    top: 10px;
+    display: flex;
+    justify-content:space-between ;
+    width: 20vw;
+
+}
+.Childss{
+    width: 100px;
+    height: 100px;
+
+}
